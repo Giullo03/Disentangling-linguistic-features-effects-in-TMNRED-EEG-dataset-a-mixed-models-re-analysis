@@ -1,4 +1,5 @@
 # A Mixed-Effects re-analysis of TMNRED EEG dataset: disentangling linguistic features effects 
+
 This repository contains the code and analyses for the study "A Mixed-Effects re-analysis of TMNRED EEG dataset: disentangling linguistic features effects", which investigated the relationships between EEG features, linguistic features and semantic processing. 
 
 The full manuscript is available in:
